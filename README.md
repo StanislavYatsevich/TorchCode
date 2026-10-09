@@ -1,1 +1,1 @@
-# TorchCode
+This repository contains my solutions of the [TorchCode](https://github.com/duoan/TorchCode/blob/master/README.md) problems – those where you have to implement from scratch core Machine Learning and Deep Learning algorithms and techniques as they are in PyTorch
